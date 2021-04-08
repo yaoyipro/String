@@ -1,5 +1,7 @@
 // String.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// this program shows all the permutations of a string.  There is 2 method, one used 2 additional strings, the other just use recursion to swap the elements of string around.
+// Both work! :)
+
 
 #include <iostream>
 using namespace std;
